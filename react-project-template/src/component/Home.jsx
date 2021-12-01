@@ -1,4 +1,4 @@
-import Logo from '../img/dark.svg'
+import Logo from '../img/Logo.png'
 import LogoGa from '../img/gatsby.svg'
 import LogoRe from '../img/redux.svg';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
