@@ -1,8 +1,8 @@
+import Checklist from '../AppComponent/Checklist';
 import '../Style.css'
 const Application = () => {
   return ( <>
-  
-<h1>app</h1>
+   <Checklist/>
   </> );
 }
  
